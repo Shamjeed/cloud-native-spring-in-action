@@ -1,6 +1,6 @@
 # Catalog Service
 
-## REST API
+## REST API 
 
 | Endpoint	      | Method   | Req. body  | Status | Resp. body     | Description    		   	     |
 |:---------------:|:--------:|:----------:|:------:|:--------------:|:-------------------------------|
